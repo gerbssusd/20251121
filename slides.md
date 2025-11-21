@@ -5,7 +5,7 @@ background: https://cover.sli.dev
 
 title: "Logical Fallacies in Today's News"
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: slide-left
+transition: fade-out
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 ts: true
@@ -315,5 +315,6 @@ Logical fallacies appear frequently in news and political rhetoric. Understandin
 ---
 layout: end
 ---
+
 
 
